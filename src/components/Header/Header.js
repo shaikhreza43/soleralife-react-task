@@ -34,7 +34,7 @@ const Header = (props) => {
                         </div>
                         <div className="inner-2nd-div">
                             <Link href="#">Login</Link>
-                            <Link href="#">Cart</Link>
+                            <Link href="#">Cart&nbsp;({props.cartValue})</Link>
                         </div>
                     </div>
                 </Toolbar>

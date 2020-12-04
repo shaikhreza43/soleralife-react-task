@@ -1,0 +1,15 @@
+.item1-description-main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item2-description-main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item-desc-heading a{
+    color: black;
+}
